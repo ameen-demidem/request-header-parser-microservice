@@ -1,0 +1,22 @@
+{
+  "name": "request-header-parser-microservice",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice Challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "none.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameen-demidem/request-header-parser-microservice.git"
+  },
+  "author": "Ameen Demidem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameen-demidem/request-header-parser-microservice/issues"
+  },
+  "homepage": "https://github.com/ameen-demidem/request-header-parser-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
